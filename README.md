@@ -1,2 +1,3 @@
 # ijuda
-Desenvolvimento do app como projeto final do Hackatruck Makerspace.
+Desenvolvimento do app de um protótipo como projeto final do IBM 
+Hackatruck Makerspace.
